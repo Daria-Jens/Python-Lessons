@@ -1,6 +1,3 @@
-# Python-Lessons
-notes about teaching and self-learning python
-
 # Lesson 1
 in IDLE arbeiten.
 Erlernen einfacher Befehle.
@@ -335,7 +332,7 @@ while not game_over:
 turtle.exitonclick()
 
 ```
-
+![drunk turtle](drunk_turtle.png)
 
 
 
@@ -454,7 +451,7 @@ for i in range(150):
 turtle.exitonclick()
 
 ```
-![drunk turtle](drunk_turtle.png)
+
 
 # In dieser Lektion haben wir die folgenden Befehle gelernt:
 
@@ -462,5 +459,4 @@ turtle.exitonclick()
 * print  - das bedeutet drucke (auf den Bildschirm)
 * random.randint(1,6) - das bedeutet erzeuge eine Zufallszahl
 * random.choice(["#FF0000","#00FFFF"]) - bedeutet dass ein zufälliges element _(aus einer Liste) ausgewählt wird 
-
 
